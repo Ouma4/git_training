@@ -1,2 +1,2 @@
 **Exercice**
-*Part1*Part2
+* part1 *part 2
